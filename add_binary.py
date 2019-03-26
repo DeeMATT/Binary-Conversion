@@ -5,7 +5,7 @@ A function that adds two numbers together and returns their sum in binary
 
 def add_binary(a, b):
     numb = a + b
-    return str(bin(numb))HBCJKS
+    return str(bin(numb))
     
     
 
